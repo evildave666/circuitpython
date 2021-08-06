@@ -372,6 +372,8 @@ jobs:
         - "sparkfun_thing_plus_rp2040"
         - "spresense"
         - "stackrduino_m0_pro"
+        - "stm32f401ce_blackpill"
+        - "stm32f401ce_blackpill_with_flash"
         - "stm32f411ce_blackpill"
         - "stm32f411ce_blackpill_with_flash"
         - "stm32f411ve_discovery"
